@@ -16,3 +16,4 @@ END;
 /
 
 SELECT * FROM ALMACEN; 
+--probar el procedimiento con netbeans
